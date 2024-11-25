@@ -1,4 +1,4 @@
-package com.greeshmaclasses.DMS.Controllers;
+package com.kasulaclasses.DMS.Controllers;
 
 //import java.util.List;
 //import java.util.Optional;
@@ -14,11 +14,6 @@ import com.greeshmaclasses.DMS.Models.Trainer;
 import com.greeshmaclasses.DMS.repository.DogRepository;
 import com.greeshmaclasses.DMS.repository.TrainerRepository;
 
-/*
- * @author Greeshma Borra
- * S567537
- * 
- */
 
 @Controller
 public class DogController {

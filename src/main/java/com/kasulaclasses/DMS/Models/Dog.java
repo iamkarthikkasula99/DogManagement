@@ -1,15 +1,10 @@
-package com.greeshmaclasses.DMS.Models;
+package com.kasulaclasses.DMS.Models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
 
 
-/*
- * @author Greeshma Borra
- * S567537
- * 
- */
 
 @Entity
 public class Dog {

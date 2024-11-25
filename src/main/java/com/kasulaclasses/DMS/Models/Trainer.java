@@ -1,12 +1,8 @@
-package com.greeshmaclasses.DMS.Models;
+package com.kasulaclasses.DMS.Models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-/*
- * @author Greeshma Borra
- * S567537
- * 
- */
+
 @Entity
 public class Trainer {
 
