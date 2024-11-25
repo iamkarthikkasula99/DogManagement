@@ -9,10 +9,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.greeshmaclasses.DMS.Models.Dog;
-import com.greeshmaclasses.DMS.Models.Trainer;
-import com.greeshmaclasses.DMS.repository.DogRepository;
-import com.greeshmaclasses.DMS.repository.TrainerRepository;
+import com.kasulaclasses.DMS.Models.Dog;
+import com.kasulaclasses.DMS.Models.Trainer;
+import com.kasulaclasses.DMS.repository.DogRepository;
+import com.kasulaclasses.DMS.repository.TrainerRepository;
 
 
 @Controller
