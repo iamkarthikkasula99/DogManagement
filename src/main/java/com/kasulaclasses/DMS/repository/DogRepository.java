@@ -7,7 +7,7 @@ import java.util.List;
 import org.springframework.data.repository.CrudRepository;
 
 
-import com.greeshmaclasses.DMS.Models.Dog;
+import com.kasulaclasses.DMS.Models.Dog;
 
 
 
