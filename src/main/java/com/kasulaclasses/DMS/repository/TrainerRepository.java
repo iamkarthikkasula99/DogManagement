@@ -2,7 +2,7 @@ package com.kasulaclasses.DMS.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.greeshmaclasses.DMS.Models.Trainer;
+import com.kasulaclasses.DMS.Models.Trainer;
 
 
 
